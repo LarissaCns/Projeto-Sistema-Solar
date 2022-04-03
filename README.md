@@ -1,5 +1,5 @@
 
-# Boas vindas ao repositório do projeto Sistema Solar!
+# Boas vindas ao repositório do projeto Sistema Solar 🪐 !
 
 
 # Habilidades
@@ -50,7 +50,7 @@ As imagens dos planetas e as informações das missões são fornecidas no proje
     * `npm install`
   * Inicialize o projeto:
     * `npm start` (uma nova página deve abrir no seu navegador com um texto simples)
-    * 
+
 ## Link do projeto no meu linkedin para visualização 
 
 https://www.linkedin.com/posts/larissacn-silva_react-javascript-html-activity-6892113644310589440-YNQW?utm_source=linkedin_share&utm_medium=member_desktop_web
